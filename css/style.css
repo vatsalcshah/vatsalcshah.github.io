@@ -286,10 +286,16 @@ a.active {
     background-size: cover;
     height: 100vh;
 }
-
+   
+}
 .table-cell {
     display: table-cell;
     vertical-align: middle;
+}
+.table-cell h1 {
+   font-family: 'Roboto Condensed', sans-serif;
+   -webkit-text-stroke: 1px #000000;
+   -webkit-text-fill-color: #ffffff;
 }
 
 .disply-table {
